@@ -11,5 +11,4 @@ Product Manager - Jonathan Kurniawan
 Data Engineer - (Win) Thitiwat Watanajaturaporn 
 
 Data Analyst - Emakenemi Precious 
-             - Eline Debakker
-             - Remi Bizet
+             - (Chelsea) Cheng Cheng
