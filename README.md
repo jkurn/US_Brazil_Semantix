@@ -12,3 +12,5 @@ Data Engineer - (Win) Thitiwat Watanajaturaporn
 
 Data Analyst - Emakenemi Precious 
              - (Chelsea) Cheng Cheng
+             
+Project File - https://docs.google.com/document/d/1qVxBO17KRs8NyIYJaOlTZKrIGdf56yCvenLy1NPFQzE/edit?usp=sharing
